@@ -1,0 +1,23 @@
+canvas {
+	border: 1px solid #0099CC;
+    margin: 1em;
+
+	background: deepskyblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(midnightblue , deepskyblue);
+    background: -o-linear-gradient(midnightblue , deepskyblue);
+    background: -moz-linear-gradient(midnightblue , deepskyblue);
+    background: linear-gradient(midnightblue , deepskyblue);
+}
+
+html {
+	background-color: deepskyblue; /* For browsers that do not support gradients */
+}
+
+body {
+    text-align: center;
+    margin: auto auto;
+    background: -webkit-linear-gradient(midnightblue , deepskyblue);
+    background: -o-linear-gradient(midnightblue , deepskyblue);
+    background: -moz-linear-gradient(midnightblue , deepskyblue);
+    background: linear-gradient(midnightblue , deepskyblue);
+}
